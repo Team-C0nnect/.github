@@ -1,7 +1,7 @@
 # Team C0nnect
 <h3> 대구소프트웨어마이스터고 기숙사 관리 프로그램 "Qvick" 을 개발, 유지보수하는 팀입니다. </h3>
 
-![image](https://github.com/Team-C0nnect/.github/assets/76110334/01492325-b536-4b50-b9b1-2b7cc3955812)
+![image](https://github.com/Team-C0nnect/Qvick_Server/assets/76110334/5cd532ce-0d0b-4cbe-adb1-28068072f8d2)
 
 ## Member
 ### 1기 
