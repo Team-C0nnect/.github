@@ -1,7 +1,7 @@
 # Team C0nnect
 <h3> 대구소프트웨어마이스터고 기숙사 관리 프로그램 "Qvick" 을 개발, 유지보수하는 팀입니다. </h3>
 
-![MacBook Pro 17](https://github.com/Team-C0nnect/.github/assets/76110334/b1c634d8-8228-4e4d-9587-16a71620d154)
+![깃허브 용](https://github.com/lgwk42/test/assets/76110334/a83b98b9-12f8-4f11-af16-2ecc39c666a5)
 
 ## Member
 ### 1기 
