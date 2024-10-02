@@ -1,2 +1,2 @@
-![깃허브 배너](https://github.com/lgwk42/test/assets/76110334/74e9f2ef-09c6-4475-9739-f3e6c88cdea2)
+![깃배너](https://github.com/user-attachments/assets/ef6b0aad-9f22-4260-93ed-780649539be6)
 
