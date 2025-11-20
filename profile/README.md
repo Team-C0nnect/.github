@@ -1,2 +1,1 @@
-![깃배너](https://github.com/user-attachments/assets/ef6b0aad-9f22-4260-93ed-780649539be6)
-
+<img width="1920" height="1080" alt="깃배너" src="https://github.com/user-attachments/assets/9c8c9595-14cd-4410-a7cc-65040265f0c3" />
